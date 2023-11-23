@@ -2,7 +2,9 @@
 
 ✨✨✨
 
-![Qiang Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksd11&count_private=true&show_icons=true)
+![Qiang Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksd11&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksd11&layout=compact&count_private=true)](https://github.com/ksd11/github-readme-stats)
 
 <!--
 **ksd11/ksd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
